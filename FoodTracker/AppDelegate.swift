@@ -8,7 +8,7 @@
 
 import UIKit
 
-@UIApplicationMain
+@UIApplicationMain  // for entry point and run loop
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
