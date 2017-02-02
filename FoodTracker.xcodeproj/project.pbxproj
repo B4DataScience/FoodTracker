@@ -14,6 +14,7 @@
 		AD346ED71E404F1200AA455F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD346ED51E404F1200AA455F /* LaunchScreen.storyboard */; };
 		AD346EE21E404F1200AA455F /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD346EE11E404F1200AA455F /* FoodTrackerTests.swift */; };
 		ADF7BDE11E42E98D00A5370E /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF7BDE01E42E98D00A5370E /* RatingControl.swift */; };
+		ADFEA1C21E43036E006C7563 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFEA1C11E43036E006C7563 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		AD346EE11E404F1200AA455F /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		AD346EE31E404F1200AA455F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADF7BDE01E42E98D00A5370E /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RatingControl.swift; path = ../RatingControl.swift; sourceTree = "<group>"; };
+		ADFEA1C11E43036E006C7563 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				AD346ECC1E404F1200AA455F /* AppDelegate.swift */,
 				AD346ECE1E404F1200AA455F /* ViewController.swift */,
+				ADFEA1C11E43036E006C7563 /* Meal.swift */,
 				ADF7BDE01E42E98D00A5370E /* RatingControl.swift */,
 				AD346ED01E404F1200AA455F /* Main.storyboard */,
 				AD346ED31E404F1200AA455F /* Assets.xcassets */,
@@ -202,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADFEA1C21E43036E006C7563 /* Meal.swift in Sources */,
 				AD346ECF1E404F1200AA455F /* ViewController.swift in Sources */,
 				ADF7BDE11E42E98D00A5370E /* RatingControl.swift in Sources */,
 				AD346ECD1E404F1200AA455F /* AppDelegate.swift in Sources */,
