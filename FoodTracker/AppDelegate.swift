@@ -6,9 +6,10 @@
 //  Copyright © 2017 Brijesh Patel. All rights reserved.
 //
 
+
 import UIKit
 
-@UIApplicationMain  // for entry point and run loop
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
